@@ -2,7 +2,7 @@
 layout: default
 title: "honse"
 description: "get bakushined, idiot"
-image: (main/Bak shin shin.jpg)
+image: main/Bak shin shin.jpg
 ---
 
 # Project name: idfk
