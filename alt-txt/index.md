@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: "honse"
 description: "get bakushined, idiot"
 image: (main/Bak shin shin.jpg)
