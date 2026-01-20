@@ -7,4 +7,4 @@ image: img/pancak 2.png
 
 # Project name: alt text 
 
-![A pattern made out of a same copy of a single pancake that is formed into a capital letter P, those copies are turned in various angles while placed beside eachother.](img/pancak-2.png)
+![A pattern made out of a same copy of a single pancake that is formed into a capital letter P, those copies are turned in various angles while placed beside eachother.](img/pancak 2.png)
