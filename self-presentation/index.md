@@ -1,3 +1,3 @@
-# Presentation: the short and ~~sweet~~
+# Presentation: the short ~~and sweet~~
 
-(self-presentation/img/presebtace-1.png)
+![image1](self-presentation/img/presebtace-1.png)
