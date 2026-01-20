@@ -1,4 +1,4 @@
-# Bespoke character
+# One image says a couple of words
 
 ![A bespoke character made out of a pancake, shaped into a capital letter P. Beside the character is placed a small wall of text of words stating with letter p, where the author attempts to create a rhythm?](imgg/pancak)
 
