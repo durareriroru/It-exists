@@ -1,9 +1,6 @@
 # Design stuff but in english
 
-- [alt-text](alt-txt)
-  
-## txtxtxt
+Eelo. I'm Eva. Mainly a graphic designer with a passion of a rock laying in a puddle. I hope you'll enjoy your short stay here. If there's any need to contact me, don't hesitate to do so on (studentndts@gmail.com)
+Can't wait to hear from you
 
 - [imig](#txtxtxt)
-
-For more bullshit from me: [link to yt vid](https://m.youtube.com/watch?v=Y258ZVekl8o&list=RDY258ZVekl8o&start_radio=1&pp=ygUj5p2l5p2l4piGMndpbmvjgqTjg6rjg6Xjg7zjgrjjg6fjg7OgBwE%3D)
