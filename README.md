@@ -7,3 +7,4 @@ Can't wait to hear from you o7
 - [Alt Text](alt-txt)
 - [Bespoke character](bespok-chara/index.md)
 - [Self-presentation](self-presentation/index.md)
+- [Handshake](handshake/index.md)
