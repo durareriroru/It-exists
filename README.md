@@ -5,4 +5,4 @@ If there's any need to contact me, don't hesitate to do so on (studentndts@gmail
 Can't wait to hear from you
 
 - [Alt Text](alt-txt)
-- [Bespoke character](bespoke chara/img)
+- [Bespoke character](bespok-chara)
