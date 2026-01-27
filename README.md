@@ -4,7 +4,7 @@ Hey. I'm Eva. A graphic designer with love for anything interesting. And what I'
 Can't wait to hear from you o7
 Still here? Fine. [Here's more about me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- [Bespoke character](alt-txt)
+- [Bespoke character](alt-txt/index.md)
 - [Alt text variations](bespok-chara/index.md)
 - [Self-presentation](self-presentation/index.md)
 - [Bussiness card](bussiness-card/index.md)
