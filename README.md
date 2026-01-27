@@ -7,5 +7,6 @@ Can't wait to hear from you o7
 - [Bespoke character](alt-txt)
 - [Alt text variations](bespok-chara/index.md)
 - [Self-presentation](self-presentation/index.md)
-- [Handshake](handshake/index.md)
 - [Bussiness card](bussiness-card/index.md)
+- [Handshake](handshake/index.md)
+  
