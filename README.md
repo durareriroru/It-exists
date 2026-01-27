@@ -1,6 +1,6 @@
 # Design stuff but in english
 
-Hey. I'm Eva. A graphic designer with love for anything interesting. And what I'm interested now, is what chalenges we can tackle together in design. Interested? You can tell me more in [my email.](studentndts@gmail.com)
+Hey. I'm Eva. A graphic designer with love for anything interesting. And what I'm interested now, is what challenges we can tackle together in design. Interested? We can connect through [my email.](studentndts@gmail.com)
 Can't wait to hear from you o7
 [Here's more about me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
