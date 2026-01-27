@@ -1,10 +1,4 @@
----
-layout: default
-title: "P is for Pancakes"
-description: "Short text illustrating the famous saying of Repetition of the same action, while expecting a different result, is called insanity."
-image: "img/pancak-2.png"
----
+# P for Pancake
 
-# alt text for a bespoke character
+The idea of turning a pancake into a bespoke character came at the moment when all great ideas are born: during breakfast - or, more accurately, before it. Breakfast is usually like a no for me, but I needed something easy to make and simple enough to document step by step. Henceforth, what you’re seeing here.
 
-![A pattern made out of a same copy of a single pancake that is formed into a capital letter P, those copies are turned in various angles while placed beside eachother.](img/pancak-2.png)
