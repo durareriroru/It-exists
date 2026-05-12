@@ -23,6 +23,7 @@ At the beginning, I didn’t know the answer either. Never was a website creatin
 3)	Besides the logo it looks like any other site made on wordpress
 
 Here's some pictures
+
 ![A photo of an A4 paper with 4 versions of posible site layout](img/site-layout-paper-2.png)
 ![A photo of an A4 paper with site layout](img/site-layout-paper-1.png)
 
