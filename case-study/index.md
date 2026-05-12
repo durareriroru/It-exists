@@ -30,7 +30,7 @@ After I found a direction to go in. I started the wireframe and choosing what fo
 
 With wireframe, I left it mostly as it was. I chose to make it a long scroll page where you don’t have to click on each different section, only to find out it has a couple of sentences written.
 
-![A vector wireframe, made of a light grey rectangle with smaller, darker gray rectangles and squares inside it](img/site-low-fidelity-wireframe)
+![A vector wireframe, made of a light grey rectangle with smaller, darker gray rectangles and squares inside it](img/site-low-fidelity-wireframe.png)
 
 The main red colour, I took from their logo. It’s a bold and energetic colour that would certainly differentiate it from any other art museum site with more ‘respectable’ palette.
 
