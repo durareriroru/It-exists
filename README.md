@@ -12,7 +12,7 @@ Can't wait to hear from you o7
 - [Bussiness card](bussiness-card/index.md)
 - [Handshake](handshake/index.md)
 
- ##It's on your screen now... Comming this summer...
+ ## It's on your screen now... Comming this summer...
 
 - [Today I Learned...](today-i-learned-nothing/index.md)
 - [Case Study](case-study/index.md)
