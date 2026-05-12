@@ -1,6 +1,6 @@
 # Aren't you tired of me already?
 
-Relic of the past. [Under no circumstances, don't look!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Relic of the past. [It's super secret, so no boys allowed](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Hi, i'm Eva. A graphic designer.
 
