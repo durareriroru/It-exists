@@ -39,7 +39,7 @@ The main red colour, I took from their logo. It’s a bold and energetic colour 
 
 Font Poppins was chosen as a main font, to make the website feel less old. But in combination with ITC Berkley, I hoped to make the transition less jarring. 
 
-With all of this combined, you can take a peek at the final result with [Figma link to the website prototype](https://www.figma.com/design/huh5sY326v7DI0s5Xr6prU/Microsite?node-id=0-1&t=JFOLbT2PinTIFQE8-1)
+With all of this combined, you can take a peek at the final result with this [Figma link to the website prototype](https://www.figma.com/design/huh5sY326v7DI0s5Xr6prU/Microsite?node-id=0-1&t=JFOLbT2PinTIFQE8-1)
 
 ## New asigment, same museum
 
@@ -53,4 +53,4 @@ Despite staying with the same topic, there was a whole new can of worms to open.
 ![An image with various styles of poppins font](img/app-poppins.png)
 ![An image with various styles of ITC Berkley font](img/app-berkley.png)
 
-Tired? [Here's a little prototype for you to play with](https://www.figma.com/design/5qie7gq2lvfrvaeRjyzC8A/MOBA-App?node-id=0-1&t=d1ozd9fbRnLvk5Ll-1)
+Tired? [Here's a short link for a small prototype that you can play with](https://www.figma.com/design/5qie7gq2lvfrvaeRjyzC8A/MOBA-App?node-id=0-1&t=d1ozd9fbRnLvk5Ll-1)
