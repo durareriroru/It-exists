@@ -12,7 +12,7 @@ here are better places
 
 [Any of the BON Fresh Ramen & Soba places](https://www.google.com/maps/search/bon+fresh+ramen+and+soba/@50.0859925,14.410452,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D)
 
-They serve chinese there instead but you have a lotta options to choose from, especially if you like spicy food.
+They serve [chinese](https://www.youtube.com/watch?v=q4bPMxeCnos) there instead but you have a lotta options to choose from, especially if you like spicy food.
 
 [Nali 小院里 Hotpot Restaurant](https://www.google.com/maps/place/Nali+小院里+Hotpot+Restaurant/@50.0832679,14.4636782,17z/data=!3m1!4b1!4m6!3m5!1s0x470b93e9b2d59cb7:0x11eabe21a7e415cb!8m2!3d50.0832679!4d14.4662531!16s%2Fg%2F11kpj8wkqg?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D)
 ![A photo of a chinese restaurant at night. Somehow they have better prices than local to me restaurant near krč.](img/nali-hotpot-outside-2.jpg)
